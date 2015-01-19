@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BlogReader</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="android_names">
+        <item>android</item>
+        <item>cupcake</item>
+        <item>donut</item>
+        <item>eclairs</item>
+        <item>froyo</item>
+        <item>gingerbread</item>
+        <item>honeycomb</item>
+        <item>ice cream</item>
+        <item>jellybean</item>
+        <item>lollipop</item>
+    </string-array>
+
+    <string name="error_title">OOPS!</string>
+    <string name="no_items">No items to display</string>
+    <string name="error_message">An error has occured</string>
+    <string name="title_activity_blog_web_view">BlogWebView</string>
+    <string name="share_title">How do you want to share?</string>
+
+</resources>
